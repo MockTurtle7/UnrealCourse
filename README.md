@@ -15,7 +15,7 @@ Most of the projects that are to be uploaded in this repository is a part of a l
 		* Find a library or a dictionary of isograms.
 		* The map will contain the isograms and their corresponding hints.
 
-	4. Implement the hint, which can be used one time a game, regardless to the difficulty. It prints out the second value from the map.
+	2. Implement the hint, which can be used one time a game, regardless to the difficulty. It prints out the second value from the map.
 
 	3. Implement longer isograms i.e. 17 letters.
 
